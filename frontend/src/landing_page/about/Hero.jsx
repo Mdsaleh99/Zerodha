@@ -9,6 +9,9 @@ export default function Hero() {
             We pioneered the discount broking model in India. Now, we are
             breaking ground with our technology..
           </h1>
+          <p>
+            
+          </p>
         </div>
       </div>
     </>
