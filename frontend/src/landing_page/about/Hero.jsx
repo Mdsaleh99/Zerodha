@@ -10,7 +10,7 @@ export default function Hero() {
             breaking ground with our technology..
           </h1>
           <p>
-            
+            this is just testing
           </p>
         </div>
       </div>
