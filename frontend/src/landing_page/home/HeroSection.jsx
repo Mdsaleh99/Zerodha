@@ -7,7 +7,7 @@ export default function HeroSection() {
         <div className="row text-center">
           <img
             src="assets/images/homeHero.png"
-            alt="Hero img"
+            alt="Hero Image"
             className="mb-5"
           />
           <h1 className="mt-5">Invest in Everything</h1>
